@@ -1,0 +1,24 @@
+Internet- 1989
+Website- 1990
+HTML- Sir Tim Berner Lee 1991. HTML1 > HTML2 > HTML3 > HTML4 > XHTML > Html 5 (Proposed 2008- Finaly Realese-2012)
+
+
+Web Application Development PHP
+
+	Frontend
+		Structure
+			HTML
+		Element
+			CSS
+	Admin Panel
+	Database
+
+HTML - One kind of Language. It is a Tag Base Mark-up Language. Never Made a Web Site Without Html. Hyper Text Mark-up Language.
+TAG - Tag is a Syntax, Wich main work is a website show in a browser.
+	<tagname>Openig Tag</tagname> 
+	In HTML has about 118+_.
+Mark-up Language - In hTML , Indivisual Tag called . and all Tag call Mark-up Language.
+
+W3C - World Wide Web Consourtium.
+
+In html we most use <table> rag.
